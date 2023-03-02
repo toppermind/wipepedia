@@ -1,0 +1,32 @@
+*{margin: 0;
+   padding: 0;
+}
+body{
+      background: url(london.jpg)no-repeat center center fixed;
+             background-size: cover;
+} 
+.container{
+         color:orange;
+          position: absolute;
+             right:35%;
+              left: 35%;
+               bottom: 25%;
+
+}
+.container h1{
+       display: inline-block;
+         font-size: 30px;
+         border-bottom: 5px solid orangered;
+                background: none;
+                  color: red;
+}       
+.btn{
+       cursor: pointer;
+           padding:4px;
+             background: none;
+              border-radius: 18px;
+                margin: 3px 3px 3px;  
+                            float: bottom;
+                              border-style: outset;
+                                    color: limegreen;
+}

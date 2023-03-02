@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+     padding: 0;
+}
+body{
+        background: url(jellyfish.jpg)no-repeat center center fixed;
+         background-size: cover;
+}
+.container{
+            color:orangered;
+              border-bottom:4px solid goldenrod;
+}
+.container h1{
+               display: inline-block;
+}
